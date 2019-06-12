@@ -7,7 +7,7 @@
         {
             "taskName": "build",
             "args": [
-                "${workspaceRoot}/Angular_ASPNETCore_Seed/Angular_ASPNETCore_Seed.csproj"
+                "${workspaceRoot}/Angular_ASPNETCore_CustomersService.csproj"
             ],
             "isBuildCommand": true,
             "problemMatcher": "$msCompile"
